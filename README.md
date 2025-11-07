@@ -1,5 +1,13 @@
 ## Hi there 👋
-- I'm currently learning intermediate skills to becoming a roblox scripter
+I’m Natalie, an intermediate roblox scripter based in Kenya.
+
+I build and script whatever pops into my head.
+
+I've developed a lot of unpublished games just for fun. 
+
+Fun Facts:
+I've been scripting since July 2025
+I've been using roblox since 2016
   
 
 <!--
