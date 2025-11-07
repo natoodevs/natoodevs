@@ -1,4 +1,6 @@
 ## Hi there 👋
+- I'm currently learning intermediate skills to becoming a roblox scripter
+  
 
 <!--
 **natoodevs/natoodevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
