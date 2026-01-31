@@ -1,14 +1,5 @@
 ## Hi there 👋
-I’m Natalie, an intermediate roblox scripter based in Kenya.
 
-I build and script whatever pops into my head.
-
-I've developed a lot of unpublished games just for fun. 
-
-Fun Facts:
-I've been scripting since July 2025
-I've been using roblox since 2016
-  
 
 <!--
 **natoodevs/natoodevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
