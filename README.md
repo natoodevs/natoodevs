@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m a student learning web development and game scripting.
+I enjoy building interactive systems and experimenting with game mechanics.
+
+### 🔭 Currently learning / focused on: 
+- HTML, CSS
+- Roblox Lua 
+
+
+
 
 <!--
 **natoodevs/natoodevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
