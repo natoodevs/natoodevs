@@ -8,10 +8,6 @@ I enjoy building interactive systems and experimenting with game mechanics.
 - Roblox Lua 
 
 
-# 💫 About Me:
-I’m a student learning web development and game scripting.<br>I enjoy building interactive systems and experimenting with game mechanics.<br><br>🔭 I’m currently focusing on <br>- HTML, CSS<br>- Roblox Lua <br><br>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=natoodevs&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=natoodevs&theme=dark&hide_border=true)<br/>
