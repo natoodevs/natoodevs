@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-I’m a student learning web development and game scripting.
-I enjoy building interactive systems and experimenting with game mechanics.
+I’m a student learning web development and I enjoy building interactive systems 
 
 ### 🔭 Currently learning / focused on: 
 - HTML, CSS
-- Roblox Lua 
+
 
 
 
